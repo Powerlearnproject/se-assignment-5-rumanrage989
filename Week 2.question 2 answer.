@@ -1,0 +1,38 @@
+Installation of Visual Studio Code on Windows 11:
+You can download Visual Studio Code (VS Code) for Windows 11 from the official website. Visit the VS Code download page and choose the appropriate installer for your system (e.g., User Installer, System Installer, or .zip file).
+Once downloaded, run the installer (VSCodeUserSetup-{version}.exe). By default, VS Code will be installed under C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
+Alternatively, you can download the Zip archive, extract it, and run VS Code from there12.
+First-time Setup and Initial Configurations:
+After installation, open VS Code.
+Consider installing essential extensions for your workflow (e.g., “Python”, “JavaScript”, “GitLens”).
+Customize settings, themes, and keybindings according to your preferences.
+User Interface Overview:
+Activity Bar: Provides quick access to different functionalities (e.g., Explorer, Source Control, Extensions).
+Side Bar: Contains panels like Explorer (file navigation), Source Control (Git), and Extensions.
+Editor Group: Where you write and edit code (multiple editors can be grouped).
+Status Bar: Displays information like line/column numbers, Git branch, and language mode.
+Command Palette:
+Access it with Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (macOS).
+Perform tasks like opening files, running commands, and configuring settings.
+Extensions in VS Code:
+Extensions enhance functionality (e.g., “Live Server” for web development).
+Install extensions from the Extensions view (Ctrl+Shift+X).
+Popular extensions include “ESLint”, “Prettier”, and “Debugger for Chrome”.
+Integrated Terminal:
+Open it with Ctrl+Backtick (Windows/Linux) or Cmd+Backtick (macOS).
+Advantages: Easily run commands, manage Git, and interact with your project.
+File and Folder Management:
+Create files/folders in the Explorer (Ctrl+P to open files).
+Navigate between files using breadcrumbs or Ctrl+Tab.
+Settings and Preferences:
+Customize settings via File > Preferences > Settings.
+Change themes, font size, and keybindings.
+Example: To change the theme, search for “Color Theme” in settings.
+Debugging in VS Code:
+Set breakpoints in your code.
+Use the Debug view (Ctrl+Shift+D) to configure launch configurations.
+Debug features include stepping through code, inspecting variables, and evaluating expressions.
+Using Source Control (Git):
+Initialize a Git repository (Ctrl+Shift+G).
+Make commits, push changes to GitHub, and manage branches.
+Extensions like “GitLens” provide additional Git features.
