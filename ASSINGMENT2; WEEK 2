@@ -1,0 +1,41 @@
+eflection on Challenges and Strategies
+Challenges:
+Git configuration: Understanding Git commands and workflows.
+Python installation: Verifying Python paths and versions.
+MySQL setup: Troubleshooting database connection issues.
+Strategies:
+Online resources: Refer to official documentation and community forums.
+Trial and error: Experiment and learn from mistakes.
+Collaborate: Seek help from peers or mentors.
+
+Windows 11 Installation
+I downloaded the Windows 11 Installation Assistant from the official Microsoft website.
+Following the prompts, I installed Windows 11 on my current device.
+I ensured that my PC met the system requirements for Windows 11.
+2. Visual Studio Code (VS Code) Installation
+I downloaded Visual Studio Code for free.
+After the download completed, I ran the installer.
+During installation, I customized the settings according to my preferences (e.g., theme, extensions).
+3. Git Setup
+I installed Git by downloading it from the official Git website.
+After installation, I configured my Git username and email using the following commands:
+git config --global user.name "My Name"
+git config --global user.email "my@email.com"
+
+I created a GitHub account if I didn’t have one already.
+4. Python Installation
+I visited python.org and downloaded the Python installer.
+During installation, I selected the option to add Python to my system PATH.
+I verified the installation by running python --version in the command prompt.
+5. MySQL Database Setup
+I downloaded the MySQL installer for Windows from MySQL.
+During installation, I selected the MySQL Server and MySQL Workbench components.
+I set a root password for MySQL during the installation process.
+6. Optional: Docker
+I considered using Docker for containerization.
+If needed, I downloaded and installed Docker Desktop for Windows.
+7. VS Code Extensions
+I explored available extensions in VS Code:
+Installed Python extension for Python development.
+Installed GitLens for enhanced Git integration.
+Explored other extensions based on my project needs.
